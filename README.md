@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da 
 
 ## 🔶 Diagrama
 
-<img src="public/diagrama.png" alt="Diagrama da aplicação" />
+<img src=".github/diagrama.png" alt="Diagrama da aplicação" />
 
 ## 🚀 Como executar
 
